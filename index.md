@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DBLSA/PlotterPay/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PLEASE PAY FOR YOUR PLOTTER USAGE HERE ONCE YOU HAVE BOOKED - IF YOU CANT PAY NOW PLEASE Email Plotter@the-lsa.org WITH HOW MANY SHEETS YOU ARE PRINTING AND WE WILL EITHER INVOICE YOU OR DEDUCT FROM YOUR STUDIO BALANCE, MANY THANKS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DBLSA/PlotterPay/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="7T42T6H2MHY3L">
+<table>
+<tr><td><input type="hidden" name="on0" value="Type of Print">Type of Print</td></tr><tr><td><select name="os0">
+	<option value="A2 Colour">A2 Colour £1.20 GBP</option>
+	<option value="A2 B&W">A2 B&W £0.45 GBP</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="GBP">
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
