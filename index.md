@@ -6,8 +6,8 @@ PLEASE PAY FOR YOUR PLOTTER USAGE HERE ONCE YOU HAVE BOOKED - IF YOU CANT PAY NO
 <input type="hidden" name="hosted_button_id" value="7T42T6H2MHY3L">
 <table>
 <tr><td><input type="hidden" name="on0" value="Type of Print">Type of Print</td></tr><tr><td><select name="os0">
-	<option value="A2 Colour">A1 Colour £1.50 GBP</option>
-	<option value="A2 B&W">A1 B&W £0.45 GBP</option>
+	<option value="A1 Colour">A1 Colour £1.50 GBP</option>
+	<option value="A1 B&W">A1 B&W £0.45 GBP</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="GBP">
