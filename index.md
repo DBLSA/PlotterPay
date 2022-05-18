@@ -1,7 +1,6 @@
 
 PLEASE PAY FOR YOUR PLOTTER USAGE HERE ONCE YOU HAVE BOOKED - IF YOU CANT PAY NOW PLEASE Email Plotter@the-lsa.org WITH HOW MANY SHEETS YOU ARE PRINTING AND WE WILL EITHER INVOICE YOU OR DEDUCT FROM YOUR STUDIO BALANCE, MANY THANKS
 
-
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
@@ -12,7 +11,8 @@ PLEASE PAY FOR YOUR PLOTTER USAGE HERE ONCE YOU HAVE BOOKED - IF YOU CANT PAY NO
       <div id="paypal-button-container"></div>
       </div>
     </div>
-    <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=GBP" data-sdk-integration-source="button-factory"></script>
+   
+   <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=GBP" data-sdk-integration-source="button-factory"></script>
     <script>
       function initPayPalButton() {
         var shipping = 0;
